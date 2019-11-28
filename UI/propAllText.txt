@@ -1,0 +1,344 @@
+﻿///
+///<hc=2> 字符串中含有的此类字符串将会替换为2个回车，2可以替换为任意数字
+///
+
+///铭刻人物界面
+UI_MINGKE_DELETE_TIP= Delete imprinted character
+UI_MINGKE_TITLE_SELFWORLD = Imprinted characters from current world
+UI_MINGKE_TITLE_OTHERWORLD = Imprinted characters from other worlds
+UI_MINGKE_DELETE_TITLE= 削除確認
+UI_MINGKE_DELETE_CONTENT= 本当に {0}を消して良いですか？
+UI_MOUSETIPS_LIFELENGTH= Lifespan
+
+///选择铭刻人物界面
+UI_SELECTMINGKE_TITLE= Select Imprinted Character
+
+///奇书系统界面
+UI_LEGENDBOOK_JINGCHUN= Pure essence:
+UI_LEGENDBOOK_TIP_DRAGTOMOUNT= Drag <color=#FFC537>{0}</color> to Taiji Diagram to interpret corresponding classic！<hc=2>（<color=#FFC537>{0}</color> The spirit needs to hold at least 1 classic……）
+UI_LEGENDBOOK_TIP_RELIVEXXX=<color=#FFC537>{0}</color>Deprecated，you need to use the power of purple bamboo to recovery the spirit……
+UI_LEGENDBOOK_TIP_ACTIVEDXXX=<color=#FFC537>{0}</color> holds Classics: 
+UI_LEGENDBOOK_TIP_XXXEQUIPED=<color=#FFC537>{0}</color> is already assigned to Taiji Diagram，you can assign skills to it for additional effects……
+UI_LEGENDBOOK_SKILLCHOOSE_TIP=Can’t assign {2} skills of <color={0}>【{1}】</color> or higher
+UI_LEGENDBOOK_SKILLDRAG_TIP=<hc=2>（You can drag and exchange this special effect，so it acts on skills of on a different slot）
+
+///人物界面
+UI_ACTOR_MENU_REMOVE_ITEM_TITLE=アイテムを捨てる
+UI_ACTOR_MENU_REMOVE_ITEM_NUM_INPUT=アイテムを捨てる量：
+UI_ACTOR_MENU_USE_ITEM_TITLE=アイテムを使う
+UI_ACTOR_MENU_USE_ITEM_NUM_INPUT=アイテムを使う量：
+
+///人物检索界面
+UI_NPC_SEARCH_TITLE=NPC roster
+UI_NPC_SEARCH_TIP=Search through NPC rosters…
+UI_NPC_FILTER_TITLE=Filter
+UI_NPC_FILTER_MORE=More options
+UI_NPC_FILTER_COLLAPSE_MORE=Collapse
+UI_NPC_FILTER_SET_DEFAULT=Default
+UI_NPC_FILTER_SET_DEFAULT_CONFIRM=Are you sure you ant to reset filters and rankings to default？
+UI_NPC_OPTION_ALL=All
+UI_NPC_SORT_TITLE=Sort by
+UI_NPC_TYPE_VILLAGE=Taiwu Villagers
+UI_NPC_TYPE_KNOWN=NPC you know
+UI_NPC_TYPE_WORLD=NPC in a location
+UI_NPC_RETURN_MAP=Return to region selection…
+
+///人物属性
+UI_ACTOR_ATTR=ステータス
+UI_ACTOR_NAME=名前
+UI_ACTOR_GENDER=性別
+UI_ACTOR_AGE=年齢
+UI_ACTOR_GOODNESS=Standpoint
+UI_ACTOR_CHARM=FAS
+UI_ACTOR_FAME=REP
+UI_ACTOR_FAVOR=REL
+UI_ACTOR_SAMSARA=REI
+UI_ACTOR_GANG=DEP
+UI_ACTOR_GANG_LEVEL=POS
+UI_ACTOR_LIFE_LENGTH=LIFE
+UI_ACTOR_ATTR_STR=筋力
+UI_ACTOR_ATTR_CON=体幹
+UI_ACTOR_ATTR_AGI=俊敏
+UI_ACTOR_ATTR_BON=体質
+UI_ACTOR_ATTR_INT=悟性
+UI_ACTOR_ATTR_PAT=定力
+UI_ACTOR_ATTR_DEF=護体
+UI_ACTOR_ATTR_MEF=御気
+UI_ACTOR_ATTR_DIR=内息
+UI_ACTOR_ATTR_BLO=卸力
+UI_ACTOR_ATTR_REL=応変
+UI_ACTOR_ATTR_EVE=回避
+UI_ACTOR_FAME_GOOD_AND_BAD=Mixed
+
+///功法
+UI_GONGFA=武芸
+UI_GONGFA_NEIGONG=内功
+UI_GONGFA_SHENFA=身法
+UI_GONGFA_JUEJI=絶技
+UI_GONGFA_QUANZHANG=拳掌
+UI_GONGFA_ZHIFA=指法
+UI_GONGFA_TUIFA=脚法
+UI_GONGFA_ANQI=暗器
+UI_GONGFA_JIANFA=剣法
+UI_GONGFA_DAOFA=刀法
+UI_GONGFA_CHANGBING=槍術
+UI_GONGFA_QIMEN=奇門
+UI_GONGFA_RUANBING=軟兵
+UI_GONGFA_YUSHE=弓射
+UI_GONGFA_YUEQI=楽器
+
+///技艺
+UI_SKILL=芸術
+UI_SKILL_YINLV=音楽
+UI_SKILL_YIQI=囲碁
+UI_SKILL_SHISHU=詩文
+UI_SKILL_HUIHUA=絵画
+UI_SKILL_SHUSHU=術数
+UI_SKILL_PINJIAN=品評
+UI_SKILL_DUANZAO=鍛冶
+UI_SKILL_ZHIMU=木工
+UI_SKILL_YISHU=医術
+UI_SKILL_DUSHU=毒術
+UI_SKILL_ZHIJIN=織物
+UI_SKILL_QIAOJIANG=細工
+UI_SKILL_DAOFA=道教
+UI_SKILL_FOXUE=仏教
+UI_SKILL_CHUYI=料理
+UI_SKILL_ZAXUE=雑学
+
+///人力管理界面
+UI_MANPOWER_MANAGE_TITLE=人力管理
+UI_MANPOWER_MARK_PLACE=Mark location
+UI_MANPOWER_MARK_TIP=Send manpower to this tile to mark，once marked you can assign jobs or retract manpower in manpower management screen…
+UI_MANPOWER_UNMARK_PLACE=Unmark
+UI_MANPOWER_UNMARK_TIP=Unmark the location，retract the manpower…
+UI_MANPOWER_REMOVE_WORK=Stop gathering
+UI_MANPOWER_REMOVE_WORK_TIP=Stop gathering resource from this tile…
+UI_MANPOWER_CAN_USE=Available MP
+UI_MANPOWER_BACKING=Retracting
+UI_MANPOWER_TOTAL=Max MP
+UI_MANPOWER_BUILDING_TITLE=Used in village（{0}）
+UI_MANPOWER_MARKED_PLACE_TITLE=Assigned to location（{0}）
+
+///资源相关
+RESOURCE_NAME_FOOD=食料
+RESOURCE_NAME_WOOD=木材
+RESOURCE_NAME_STONE=金石
+RESOURCE_NAME_SILK=織物
+RESOURCE_NAME_HERBAL=薬材
+RESOURCE_NAME_MONEY=金銭
+RESOURCE_NAME_PRESTIGE=威望
+RESOURCE_NAME_MANPOWER=人力
+RESOURCE_HAVE_COUNT=量：
+RESOURCE_POPULATION_COUNT=人口：
+
+//备份
+BACKUP_ON=On
+BACKUP_OFF=Off
+BACKUP_INTERVAL=バックアップの間隔
+BACKUP_TITLE=Year {0} the {1}th Taiwu {2}
+BACKUP_TIMEANDPOSTION=At {0} Time: {1}
+BACKUP_LOAD_TITLE=バックアップからの読み込み
+BACKUP_LOAD_CONTENT=このバックアップから読み込みますか？
+BACKUP_FILE_BROKEN=壊れたセーブファイル
+
+//门派
+GANG_PART_VALUE_ADD=<hc=2>（Current support cap:{0}% +{1}%)
+
+//太吾村管理
+UI_VILLAGE_MANAGE_TITLE=Taiwu Village management
+UI_VILLAGE_MANAGE_TIP=Manager villagers and buildings…
+UI_VILLAGE_ACTOR_JOB=Villager roles
+UI_VILLAGE_BUILDING_BOOTY=Building incomes
+UI_VILLAGE_ITEM_BOOTY=Item collected
+UI_VILLAGE_BUILDING_ACTOR=Assign villagers
+UI_VILLAGE_GET_ITEM_BOOTY_TIP=Click to collect materials gathered…
+UI_VILLAGE_GET_ALL_RESOURCE=Click to collect all {0}…
+UI_BUILDING_DETAIL_TIP=Click to view details of a building…
+UI_BUILDING_NEED_SKILL={0} requirement
+UI_BUILDING_PERCENT_TIP=Efficiency
+UI_BUILDING_FAVOR_UP_TIP=Improve relation
+UI_BUILDING_FAVOR_UP_VALUE=+{0}/month
+UI_BUILDING_SAMSARA_TIP=Transer Rate
+UI_BUILDING_SAMSARA_UP_VALUE=+{0} / month
+UI_BUILDING_WORKER_DRAG_TIP=Drag villagers to buildings to start work…
+UI_BUILDING_STORAGE_INFO=Gathering capacity：{0} entries
+
+//通用
+UI_ON=On
+UI_OFF=Off
+
+//系统设置
+SYSSETTING_TITLE=システム設定
+SYSSETTING_RESOLUTION=Windowサイズの変更
+SYSSETTING_FULLSCREEN=フルスクリーン
+SYSSETTING_BGM_TOG_TIP_TITLE=音量
+SYSSETTING_BGM_TOG_TIP=BGMのOn/Off
+SYSSETTING_BGMVOLUME=BGMの音量
+SYSSETTING_SE_TOG_TIP_TITLE=効果音t
+SYSSETTING_SE_TOG_TIP=効果音のOn/Off
+SYSSETTING_SEVOLUME=効果音の音量
+SYSSETTING_DAMAGEDISPLAY=DMG display
+SYSSETTING_DAMAGENUMERIC=値
+SYSSETTING_DAMAGEEXTENT=％
+SYSSETTING_TAIWUDISPLAY=太吾姓
+SYSSETTING_TAIWUDISPLAY_ON=ON
+SYSSETTING_TAIWUDISPLAY_OFF=OFF
+SYSSETTING_ITEMSORT=並び替え
+SYSSETTING_RANK=等級
+SYSSETTING_VALUE=価格
+SYSSETTING_TYPE=種類
+SYSSETTING_SPECIALTY=サブ種類
+SYSSETTING_WEIGHT=重量
+
+//新建人物
+UI_STARTNEWBUILD=（開始……)
+
+//地区名称
+REGION_0=近畿
+REGION_1=巴蜀
+REGION_2=広南
+REGION_3=荊北
+REGION_4=山西
+REGION_5=広東
+REGION_6=山東
+REGION_7=荊南
+REGION_8=福建
+REGION_9=遼東
+REGION_10=西域
+REGION_11=雲南
+REGION_12=華南
+REGION_13=江南
+REGION_14=江北
+
+//地区首府
+REGION_WITHCAPITAL_0=近畿·京城
+REGION_WITHCAPITAL_1=巴蜀·成都
+REGION_WITHCAPITAL_2=広南·貴州
+REGION_WITHCAPITAL_3=荊北·襄陽
+REGION_WITHCAPITAL_4=山西·太原
+REGION_WITHCAPITAL_5=広東·広州
+REGION_WITHCAPITAL_6=山東·青州
+REGION_WITHCAPITAL_7=荊南·江陵
+REGION_WITHCAPITAL_8=福建·福州
+REGION_WITHCAPITAL_9=遼東·遼陽
+REGION_WITHCAPITAL_10=西域·秦州
+REGION_WITHCAPITAL_11=雲南·大理
+REGION_WITHCAPITAL_12=華南·寿春
+REGION_WITHCAPITAL_13=江南·杭州
+REGION_WITHCAPITAL_14=江北·揚州
+
+//门派
+GANGNAME_0=少林寺
+GANGNAME_1=峨眉派
+GANGNAME_2=百花谷
+GANGNAME_3=武当派
+GANGNAME_4=元山派
+GANGNAME_5=獅相門
+GANGNAME_6=然山派
+GANGNAME_7=璇女派
+GANGNAME_8=鋳剣山荘
+GANGNAME_9=空桑派
+GANGNAME_10=無量金剛宗
+GANGNAME_11=五仙教
+GANGNAME_12=界青門
+GANGNAME_13=伏竜壇
+GANGNAME_14=血犼教
+
+//茶马帮事件
+THBAND_EVENT_101=Caravan has seen a Mirage，and becomes more well known <color=#ffffff>{0}</color>
+THBAND_EVENT_102=Caravan has a group of Savage，and becomes more well known <color=#ffffff>{0}</color>
+THBAND_EVENT_103=Caravan has found an animal never seen by others，and becomes more well known <color=#ffffff>{0}</color>
+THBAND_EVENT_104=Caravan has found a plant never seen by others，and becomes more well known <color=#ffffff>{0}</color>
+THBAND_EVENT_105=Caravan has send their travel notes back to Taiwu Village，and becomes more well known <color=#ffffff>{0}</color>
+THBAND_EVENT_106=Caravan has found an exotic village，and becomes more well known <color=#ffffff>{0}</color>
+THBAND_EVENT_107=Caravan has experienced a strange exotic weather，and becomes more well known <color=#ffffff>{0}</color>
+THBAND_EVENT_201=Caravan got lost，and becomes less well known <color=#ffffff>{0}</color>
+THBAND_EVENT_301=Caravan got stopped by bandit，{0} has been stolen
+THBAND_EVENT_302=Caravan bumped through the roads，{0} is broken
+THBAND_EVENT_401=Caravan has found remnant of other merchants，searched to find {0}
+THBAND_EVENT_501=Caravan has met some travellers，given them <color=#ffffff>{0}</color> supplies as gifts
+THBAND_EVENT_502=Caravan crew felt ill，took a rest and used up <color=#ffffff>{0}</color> extra supplies
+THBAND_EVENT_601=Caravan crew have recieved help from foreigners，have been given <color=#ffffff>{0}</color> supplies as gifts
+THBAND_EVENT_602=Caravan has found some wild animals，hunted for <color=#ffffff>{0}</color> supply
+THBAND_EVENT_701=Caravan has found a fruit forest，might be able to gather some supply
+THBAND_EVENT_801=Caravan has found a village，should be able to replenish some supply
+THBAND_EVENT_802=Caravan has met some other merchants，might be able to trade for some supply
+THBAND_EVENT_901=Because of lack of supply，The Caravan has lost {0}
+THBAND_EVENT_902=Trading：Caravan used {0} to exchange for {1}
+THBAND_EVNET_903=Caravan is out of supply，and has to return
+
+//茶马帮UI
+UI_THBAND_BRINGGOODS=Carried goods
+UI_THBAND_EXCHANGED=Exchanged goods
+UI_THBAND_BANDFAME=Caravan Reputition：<color=#ba5c53ff>{0}</color>
+UI_THBAND_BTN_SEARCHSUPPLY=Searched <hc=1> supplies
+UI_THBAND_BTN_TRADESUPPLY=Exchanged <hc=1> supplies
+UI_THBAND_BTN_COLLECTGOODS=Recieved <hc=1> supplies
+UI_THBAND_DISTANCE_TO_TW=(Is {0} month away from Taiwu Village)
+UI_THBAND_DIRECTION_WEST= is moving west···
+UI_THBAND_DIRECTION_EAST= is moving east···
+UI_THBAND_STATE_SEARCH_SUPPLY= is gathering supply···
+UI_THBAND_STATE_READY_TO_SEARCH_SUPPLY= is about to gather supply here···
+UI_THBAND_READY_TO_START=Caravan is about to leave···
+UI_THBAND_READY_TO_RETURN=Caravan is about to return···
+UI_THBAND_TEXT_BANDSUPPLY=Caravan supply
+UI_THBAND_TEXT_GOODSLOSERATE=Chance of losing items
+UI_THBAND_WETHER_SPEEDINF=Movement speed <color=#{0}>{1}%</color>
+UI_THBAND_SUPPLY_WEATHER=Supply cost <color=#{0}>{1}</color>
+UI_THBAND_SUPPLY_TOTALCOST=(-{0}/month)
+UI_THBAND_LOSTRATE={0}%/month
+UI_THBAND_BTN_CONFIRMEXCHANGE=exchanged for {0} supplies
+UI_THBAND_BTN_CANCELEXSUPPLY=not exchange for supply
+UI_THBAND_NOTE_TITLE=Caravan diary
+UI_THBAND_NOTE_EMPTY=Nothing in the diary
+UI_THBAND_WEATHER_NAMEPRE=Weather {0}
+UI_THBAND_TIPS_STARTBAND=Order the Caravan to move
+UI_THBAND_TIPS_RETURNBAND=Order the Caravan to return
+UI_THBAND_TIPS_ALLGOODS_TOWAREHOUSE=All returned goods will be put in storage
+UI_THBAND_TIPS_BTNENTER_TITLE=Tea Caravans
+UI_THBAND_TIPS_BTNENTER=Send Caravans to trade for exotic goods
+
+//道具选择页面UI
+UI_SELECTITEM_TOGGLE_BAG=鞄
+UI_SELECTITEM_TOGGLE_WAREHOUSE=倉庫
+UI_SELECTITEM_OWNITEMS=装備中アイテム
+
+//轮回台
+UI_SAMSARA=Reincarnation
+UI_SAMSARA_PLATFORM=Soul Bridge
+UI_SAMSARA_PLATFORM_AUTO_REMOVE_TITLE=Auto dismantling
+UI_SAMSARA_PLATFORM_AUTO_REMOVE_TIP=Because Soul Bridge becomes a unique building，{0} Soul Bridges have been automatically knocked down，all resources used have been returned（Wood、Ore、Textile has been sold and converted to Money。Blue prints have been put back to storage）：
+UI_SAMSARA_PLATFORM_BUILDING_MSG={0} Soul Bridge is currently stable and peaceful。
+UI_SAMSARA_DESTINY_GOD=Heavenly Incarnation
+UI_SAMSARA_DESTINY_GOD_TIP=Characters sent through Heavenly Incarnation，when the incarnation progress is full，will become a child of Top 3 Ranks of a good sect，stats and talents will be at the level of the top 3 ranks，standpoint being kind or just…
+UI_SAMSARA_DESTINY_HUMAN=Humanic Incarnation
+UI_SAMSARA_DESTINY_HUMAN_TIP=Characters sent through Humanic Incarnation，when the incarnation progress is full，will become a child of Top 3 Ranks of a neutral sect，stats and talents will be at the level of the top 3 ranks，standpoint being random…
+UI_SAMSARA_DESTINY_ASURA=Demonic Incarnation
+UI_SAMSARA_DESTINY_ASURA_TIP=Characters sent through Demonic Incarnation，when the incarnation progress is full，will become a child of Top 3 Ranks of an evil sect，stats and talents will be at the level of the top 3 ranks，standpoint being rebel or egoist…
+UI_SAMSARA_DESTINY_HELL=Infernal Incarnation
+UI_SAMSARA_DESTINY_HELL_TIP=Characters sent through Infernal Incarnation，when the incarnation progress is full，will become a child of Bottom 3 Ranks of an evil sect，stats and talents will be at the level of the bottom 3 ranks，standpoint being rebel or egoist…
+UI_SAMSARA_DESTINY_GHOST=Ghostly Incarnation
+UI_SAMSARA_DESTINY_GHOST_TIP=Characters sent through Ghostly Incarnation，when the incarnation progress is full，will become a child of Bottom 3 Ranks of a neutral sect，stats and talents will be at the level of the bottom 3 ranks，standpoint being random…
+UI_SAMSARA_DESTINY_ANIMAL=Beastly Incarnation
+UI_SAMSARA_DESTINY_ANIMAL_TIP=Characters sent through Beastly Incarnation，when the incarnation progress is full，will become a child of Bottom 3 Ranks of a good sect，stats and talents will be at the level of the bottom 3 ranks，standpoint being kind or just…
+UI_SAMSARA_ATTR_ADD=Taiwu main stats increases
+UI_SAMSARA_GONGFA_ADD=Taiwu Martial Art talent increases
+UI_SAMSARA_SKILL_ADD=Taiwu Art talent increases
+UI_SAMSARA_BORN_BUTTON=Reincarnation
+UI_SAMSARA_CHANGE_ACTOR_TITLE=Swap Soul
+UI_SAMSARA_CHANGE_ACTOR_TIP=When swapping for a new soul，the reincarnation progress will be reset，are you sure？
+UI_SAMSARA_REMOVE_ACTOR_TITLE=Remove Soul
+UI_SAMSARA_REMOVE_ACTOR_TIP=After removing the soul，the reincarnation progress will be reset，are you sure？
+UI_SAMSARA_BORN_SUCCESS_TITLE=Reincarnation Successful
+UI_SAMSARA_BORN_SUCCESS_TIP={0} reincarnated to become the child of {1} and {2}，at：{3}-{4}{5}…
+UI_SAMSARA_BORN_FAIL_TITLE=Reincarnation Failed
+UI_SAMSARA_BORN_FAIL_TIP=No suitable female，can not reincarnate…
+
+
+//武林大会
+WULINDAHUI_PREPAR_TURN_IMAGE=The World Martial Congress is starting in 10 months！All sects are donating and preparing，the sect made the most contribution to the congress will become the host……
+WULINDAHUI_CHOUBEI=World Martial Congress is <color=#6DB75FFF>{0}</color> months away...<hc=1> is preparing for the congress...<hc=2> disciples’ number and fighting power affect the corresponding sect’s contribution!<hc=2>{1}<hc=2> Currently {2} is most likely to become the host...<hc=1>
+WULINDAHUI_START=World Martial Congress has began...<hc=2>Each sect’s contribution:<hc=1>{0}
+WULINDAHUI_CHOUBEI_MENPAI={0}:{1}Gathering contribution{2}  +{3}/Month   Power：{4}   Wealth：{5}   Prestige：{6}<hc=1>
+WULINDAHUI_START_MENPAI={0}：{1}<hc=1>
