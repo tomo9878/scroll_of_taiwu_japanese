@@ -1,0 +1,11 @@
+#,0,1,2,3,4,5,6,7,8,9,10,11
+1,晴空,1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24,1|2|3|4|5|6,0,0,10000,100,,,1,,
+2,冰雹,9|10|11|12|13|14,2|3|4,5,0,10000,10,partical_chamabang_hail,0,0,weather_hailstone,
+3,沙暴,15|16|17|18|19|20,4,5,15,10000,10,partical_chamabang_sand,0,0,weather_sandstorm,
+4,烈日,9|10|11|12|13|14,1|2|4|6,10,0,10000,20,partical_chamabang_sun,0,1,,
+5,雷暴雨,3|4|5|6|7|8|9|10|11|12|13|14,2|3|5|6|4,10,10,10000,10,partical_chamabang_thunderstorm,0,0,weather_heavyrain,weather_thunder1#20_80|weather_thunder2#20_80|weather_thunder3#20_80|weather_thunder4#20_80
+6,小雨,1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24,1|2|3|5|6|4,0,0,10000,20,partical_chamabang_rain,0,1,weather_lightrain,
+7,小雪,1|2|21|22|23|24,1|2|3|5|6|4,5,0,10000,20,partical_chamabang_snow,0,1,,
+8,暴风雪,1|2|21|22|23|24,1|2|3|5|6|4,10,20,10000,10,partical_chamabang_snowstorm,0,0,weather_snow,
+9,狂风,3|4|5|6|7|8,1|4|6,0,5,10000,20,partical_chamabang_wind,0,1,weather_heavywind,
+10,雾,1|2|3|4|5|6|7|8|21|22|23|24,5|4,0,5,10000,10,partical_chamabang_fog,0,1,,
