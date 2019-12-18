@@ -142,7 +142,7 @@ BACKUP_LOAD_TITLE=バックアップからの読み込み
 BACKUP_LOAD_CONTENT=このバックアップから読み込みますか？
 BACKUP_FILE_BROKEN=壊れたセーブファイル
 
-//门派
+//門派
 GANG_PART_VALUE_ADD=<hc=2>（Current support cap:{0}% +{1}%)
 
 //太吾村管理
@@ -228,7 +228,7 @@ REGION_WITHCAPITAL_12=華南·寿春
 REGION_WITHCAPITAL_13=江南·杭州
 REGION_WITHCAPITAL_14=江北·揚州
 
-//门派
+//門派
 GANGNAME_0=少林寺
 GANGNAME_1=峨眉派
 GANGNAME_2=百花谷
