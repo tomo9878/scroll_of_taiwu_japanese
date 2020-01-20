@@ -245,7 +245,7 @@ GANGNAME_12=界青門
 GANGNAME_13=伏竜壇
 GANGNAME_14=血犼教
 
-//茶马帮事件
+//茶馬帮事件
 THBAND_EVENT_101=Caravan has seen a Mirage，and becomes more well known <color=#ffffff>{0}</color>
 THBAND_EVENT_102=Caravan has a group of Savage，and becomes more well known <color=#ffffff>{0}</color>
 THBAND_EVENT_103=Caravan has found an animal never seen by others，and becomes more well known <color=#ffffff>{0}</color>
@@ -268,7 +268,7 @@ THBAND_EVENT_901=Because of lack of supply，The Caravan has lost {0}
 THBAND_EVENT_902=Trading：Caravan used {0} to exchange for {1}
 THBAND_EVNET_903=Caravan is out of supply，and has to return
 
-//茶马帮UI
+//茶馬帮UI
 UI_THBAND_BRINGGOODS=Carried goods
 UI_THBAND_EXCHANGED=Exchanged goods
 UI_THBAND_BANDFAME=Caravan Reputition：<color=#ba5c53ff>{0}</color>
