@@ -17,7 +17,7 @@ UI_SELECTMINGKE_TITLE= Select Imprinted Character
 UI_LEGENDBOOK_JINGCHUN= Pure essence:
 UI_LEGENDBOOK_TIP_DRAGTOMOUNT= Drag <color=#FFC537>{0}</color> to Taiji Diagram to interpret corresponding classic！<hc=2>（<color=#FFC537>{0}</color> The spirit needs to hold at least 1 classic……）
 UI_LEGENDBOOK_TIP_RELIVEXXX=<color=#FFC537>{0}</color>Deprecated，you need to use the power of purple bamboo to recovery the spirit……
-UI_LEGENDBOOK_TIP_ACTIVEDXXX=<color=#FFC537>{0}</color> holds Classics: 
+UI_LEGENDBOOK_TIP_ACTIVEDXXX=<color=#FFC537>{0}</color> holds Classics:
 UI_LEGENDBOOK_TIP_XXXEQUIPED=<color=#FFC537>{0}</color> is already assigned to Taiji Diagram，you can assign skills to it for additional effects……
 UI_LEGENDBOOK_SKILLCHOOSE_TIP=Can’t assign {2} skills of <color={0}>【{1}】</color> or higher
 UI_LEGENDBOOK_SKILLDRAG_TIP=<hc=2>（You can drag and exchange this special effect，so it acts on skills of on a different slot）
@@ -87,7 +87,7 @@ UI_GONGFA_RUANBING=柔兵
 UI_GONGFA_YUSHE=弓射
 UI_GONGFA_YUEQI=楽器
 
-///技艺
+///技芸
 UI_SKILL=芸術
 UI_SKILL_YINLV=音楽
 UI_SKILL_YIQI=囲碁
